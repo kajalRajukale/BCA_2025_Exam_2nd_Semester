@@ -1,0 +1,2 @@
+## Unit V: File Handling (06 Hrs)  
+- Concept of streams, need, Types of files, Operations on text & binary files, Random access file, library functions for file handling – fopen, fclose, fgetc, fseek, fgets, fputc etc  
