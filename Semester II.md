@@ -1,5 +1,7 @@
 # SYLLABUS SEMESTER II
 
+---
+
 ## CA – 151 - T: Advanced C Programming  
 
 **Teaching Scheme:**  
@@ -54,14 +56,7 @@ On completion of the course, student will be able to:
 4. A structural Programming Approach using C – By Behrouz Forouzan & Richard Gilberg  
 5. Y S Kanetkar, “Let Us C”, BPB Publications  
 
-
-
-
-
-
-
-
-
+---
 
 ## CA – 152 – P: Lab Course on CA – 151 - T 
 
@@ -107,11 +102,7 @@ Continuous assessment of laboratory work is to be carried out based on overall p
 10. To demonstrate file handling  
 
 
-
-
-
-
-
+---
 
 ## CA – 153 – T: Introduction to Microcontrollers  
 
@@ -158,11 +149,7 @@ On completion of the course, student will be able to:
 1. 8051 microcontroller and Embedded system using assembly and C: Mazidi and McKinley, Pearson publications  
 2. The 8051 microcontroller – Architecture, programming and applications: K. Uma Rao and Andhe Pallavi, Pearson publications  
 
-
-
-
-
-
+--- 
 
 ## CA - 154 - P: Lab Course on CA -153-T 
 
@@ -212,11 +199,7 @@ Continuous assessment of laboratory work is to be carried out based on overall p
 14. Stepper motor interfacing to 8051 microcontroller  
 15. DC motor interfacing to 8051 microcontroller  
 
-
-
-
-
-
+---
 
 ## CA – 155 – T: Linear Algebra  
 
@@ -285,9 +268,7 @@ On completion of the course, students will be able to:
 
 
 
-
-
-
+--- 
 
 ## CA - 156 - P: Laboratory Course Based on CA -155 - T 
 
@@ -338,13 +319,7 @@ Assignments based on following topics:
 **References:**  
 - Richard Cotton, “Learning R”, SPD O’Reilly Publications  
 
-
-
-
-
-
-
-
+--- 
 
 ## VSEC -151: Software Tools for Business Communication  
 
@@ -387,18 +362,7 @@ Continuous assessment of laboratory work is to be carried out based on overall p
 - Create and manipulate Google DOC# SYLLABUS SEMESTER II
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## CA – 151 - T: Advanced C Programming  
 
@@ -454,11 +418,7 @@ On completion of the course, student will be able to:
 4. A structural Programming Approach using C – By Behrouz Forouzan & Richard Gilberg  
 5. Y S Kanetkar, “Let Us C”, BPB Publications  
 
-
-
-
-
-
+---
 
 ## CA – 152 – P: Lab Course on CA – 151 - T 
 
@@ -546,11 +506,7 @@ On completion of the course, student will be able to:
 1. 8051 microcontroller and Embedded system using assembly and C: Mazidi and McKinley, Pearson publications  
 2. The 8051 microcontroller – Architecture, programming and applications: K. Uma Rao and Andhe Pallavi, Pearson publications  
 
-
-
-
-
-
+---
 
 ## CA - 154 - P: Lab Course on CA -153-T 
 

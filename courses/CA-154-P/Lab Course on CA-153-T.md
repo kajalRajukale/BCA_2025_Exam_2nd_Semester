@@ -45,10 +45,3 @@ Continuous assessment of laboratory work is to be carried out based on overall p
 13. ADC interfacing to 8051 Microcontroller  
 14. Stepper motor interfacing to 8051 microcontroller  
 15. DC motor interfacing to 8051 microcontroller  
-
-
-
-
-
-
-

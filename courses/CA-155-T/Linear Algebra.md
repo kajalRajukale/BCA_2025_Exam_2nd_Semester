@@ -62,10 +62,3 @@ On completion of the course, students will be able to:
 1. K. Hoffman and R. Kunze, Linear Algebra, 2nd edition(2014), Prentice Hall of India, New Delhi  
 2. Steven J. Leon, Linear Algebra with Applications, 4th edition(1994), Prentice Hall of India. New Delhi  
 3. Vivek Sahai, Vikas Bist, Linear Algebra, 4th Reprint 2017, Narosa Publishing House, New Delhi  
-
-
-
-
-
-
-
