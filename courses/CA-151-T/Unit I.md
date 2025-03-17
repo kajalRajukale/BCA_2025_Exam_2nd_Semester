@@ -45,6 +45,8 @@ All preprocessor directives in C:
 2. May have zero or more spaces after the hash.
 3. Are *not* terminated by a semicolon.
 
+### 2. Example
+
 Common forms:
 ```c
 #include <header_file>   // For system headers
