@@ -1,14 +1,4 @@
-### Unit I: Systems of Linear Equations and Matrices (06 Hrs)
-
-1.1 Row echelon form of a matrix, reduced row echelon form of a matrix  
-1.2 Definition of rank of a matrix using row echelon or row reduced echelon form  
-1.3 System of linear equations - Introduction, matrix form of linear system, definition of row equivalent matrices  
-1.4 Consistency of homogeneous and non-homogeneous system of linear equations using rank, condition for consistency  
-1.5 Solution of System of Equations: Gauss elimination and Gauss-Jordan elimination method, examples
-
----
-
-# Chapter 1: Systems of Linear Equations and Matrices
+gi# Chapter 1: Systems of Linear Equations and Matrices
 
 This chapter focuses on the fundamentals of solving systems of linear equations using matrix techniques. It covers concepts such as row echelon forms, the rank of a matrix, determining the consistency of linear systems, and applying Gauss and Gauss-Jordan elimination methods.
 
